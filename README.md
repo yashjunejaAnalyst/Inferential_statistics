@@ -3,7 +3,7 @@ Python Project ( Inferential, Estimation, Hypothesis And Common Statistical test
 
 **Project Title:**
 
-"Statistical Inference for Decision-Making Across Sports, Manufacturing, and Healthcare Domains"
+Statistical Inference for Decision-Making Across Sports, Manufacturing, and Healthcare Domains.
 
 **Objective:**
 
